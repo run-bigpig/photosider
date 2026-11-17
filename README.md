@@ -13,7 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?logo=typescript&logoColor=white)
 ![Local processing](https://img.shields.io/badge/照片处理-浏览器本地-607D56)
 
-[快速开始](#快速开始) · [作品效果](#给照片选一套合适的边框) · [手机使用](#手机上也能调整)
+[在线预览](https://photosider.vercel.app/) · [快速开始](#快速开始) · [作品效果](#给照片选一套合适的边框) · [手机使用](#手机上也能调整)
 
 <img src="assets/banner.webp" width="1040" alt="Photosider 工作台：左侧选择边框，中间预览与编辑，右侧调整样式，底部切换照片">
 
@@ -31,7 +31,9 @@ Photosider 把这些操作放在同一个工作台里：拖入照片，挑一款
 
 ## 快速开始
 
-需要 **Node.js 22.12+** 和 npm。
+无需安装，直接打开 **[在线预览](https://photosider.vercel.app/)** 即可体验。
+
+在本机运行需要 **Node.js 22.12+** 和 npm。
 
 ```bash
 git clone https://github.com/run-bigpig/photosider.git
@@ -165,6 +167,8 @@ npm run preview
 在 Vercel 中导入本仓库即可部署。仓库已包含 `vercel.json`，使用 Vite 预设、`npm ci` 安装依赖、`npm run build` 构建，发布目录为 `dist/`，无需设置环境变量。
 
 连接 GitHub 仓库后，推送到 `main` 可自动更新生产站点。README 配图、测试和调研资料不上传到部署包。
+
+首次连接私有仓库时，需要在 GitHub 的 Vercel App 中授予对应仓库的访问权限。也可以在已登录的环境中运行 `npx vercel --prod` 手动发布。
 
 <details>
 <summary><b>子路径部署与技术实现</b></summary>

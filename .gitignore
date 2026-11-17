@@ -31,4 +31,4 @@ scripts/smoke-production.mjs
 Thumbs.db
 .idea/
 .vscode/
-.vercel/
+.vercel
