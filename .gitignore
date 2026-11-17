@@ -5,6 +5,7 @@ dist/
 
 # Local documentation and research
 *.md
+!README.md
 analysis/
 downloads/
 
@@ -30,3 +31,4 @@ scripts/smoke-production.mjs
 Thumbs.db
 .idea/
 .vscode/
+.vercel/
