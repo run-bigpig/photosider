@@ -8,6 +8,9 @@ dist/
 !README.md
 analysis/
 downloads/
+scripts/fetch-brand-fonts.mjs
+scripts/fetch-camera-logos.py
+scripts/fetch-curated-fonts.py
 
 # Tests, verification scripts, and generated artifacts
 tests/

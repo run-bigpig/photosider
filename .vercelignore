@@ -14,5 +14,8 @@ assets/
 playwright.config.*
 scripts/browser-helpers.mjs
 scripts/smoke-production.mjs
+scripts/fetch-brand-fonts.mjs
+scripts/fetch-camera-logos.py
+scripts/fetch-curated-fonts.py
 .env
 .env.*
