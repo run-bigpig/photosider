@@ -1,0 +1,216 @@
+{
+  "source": "https://lookcv.com/",
+  "repository": "https://github.com/printlin/OnlineImageWatermark",
+  "retrievedAt": "2026-11-17T02:41:39.409164+00:00",
+  "processing": "Trimmed transparent padding; original logo colors retained.",
+  "assets": [
+    {
+      "file": "nikon.png",
+      "source": "https://lookcv.com/static/imgs/logo/nikon.png",
+      "sourceSha256": "29c0d0d4b4d34ced777490302f350d3da253ba0ea47c35ebda7f76e1d258577b",
+      "sha256": "381135a30ec34d6820f07c1131aa6da995382a38cf62639935b0fd4fda68401a",
+      "width": 555,
+      "height": 148
+    },
+    {
+      "file": "nikon_full.png",
+      "source": "https://lookcv.com/static/imgs/logo/nikon_full.png",
+      "sourceSha256": "abd4e0733413fc1d9d10000b1edca4ba809dca3ff10571e4d63808cf7c59ba86",
+      "sha256": "d4ed4aaff22fc7ace640d1425b1cbac13c293f9960f887d80c557e3b9c7130cd",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "file": "canon.png",
+      "source": "https://lookcv.com/static/imgs/logo/canon.png",
+      "sourceSha256": "d66f5f678ae19c02dff8bb2d51003d36ae33b70aa9cd450d046db3f96bbaf773",
+      "sha256": "1aaedb0331f45f1ffba1483cfb02d916e6348991af495cb018f9904c80543f0f",
+      "width": 497,
+      "height": 105
+    },
+    {
+      "file": "sony.png",
+      "source": "https://lookcv.com/static/imgs/logo/sony.png",
+      "sourceSha256": "3cdbb561219923552404c7cd92050a6b0ea2decd341977f1c10eb14245d191c4",
+      "sha256": "d46a27f3e7ac7a9f74b22f21066cda6c959df05034a692ce649a3a4fc7fa2c4c",
+      "width": 799,
+      "height": 142
+    },
+    {
+      "file": "fujifilm.png",
+      "source": "https://lookcv.com/static/imgs/logo/fujifilm.png",
+      "sourceSha256": "f42f31a41b4a3672931aafcf9ff4bc63e87a730054834c5fbce7126cfa8cf919",
+      "sha256": "5202a32bd143ad6c213e3efaddb5f9e00b9cc503213ca01e4c2d2d13c01a6c78",
+      "width": 562,
+      "height": 92
+    },
+    {
+      "file": "hasselblad.png",
+      "source": "https://lookcv.com/static/imgs/logo/hasselblad.png",
+      "sourceSha256": "422e184e1d7b12cc47547cc543e55e0f9adc90f30f5984f6b18e14353322e2a5",
+      "sha256": "88953bba6c7f5cbfcf2ff96357c9785ff17eca92087b041558dd65424130984a",
+      "width": 497,
+      "height": 395
+    },
+    {
+      "file": "hasselblad-t.png",
+      "source": "https://lookcv.com/static/imgs/logo/hasselblad-t.png",
+      "sourceSha256": "13c3d4684fbeb15aeb4e6007450feb372304b3aa568a2a502aacf9d2449ebeee",
+      "sha256": "3644678f511cdb64064deae66e4a3234ed66abadf334e193d7db792a03991352",
+      "width": 746,
+      "height": 554
+    },
+    {
+      "file": "leica.png",
+      "source": "https://lookcv.com/static/imgs/logo/leica.png",
+      "sourceSha256": "158cd3df300e0158994c12148232355c952350326f8cfffa8c1a48e2ecaabf74",
+      "sha256": "d408d6a6e6e3807be097ec91d6f264fb54aa98130d0c26e0abb8cb7fc0d89964",
+      "width": 1568,
+      "height": 704
+    },
+    {
+      "file": "leica_full.png",
+      "source": "https://lookcv.com/static/imgs/logo/leica_full.png",
+      "sourceSha256": "6c2b37a7a43d8d88f395db08bd8633ead7a7d8b2510da88a29eaca239894475d",
+      "sha256": "c7e5df55f99e7a3614097d5d0211e60793f2a361be5c743ca60faf6ea3941855",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "file": "leica_red_full.png",
+      "source": "https://lookcv.com/static/imgs/logo/leica_red_full.png",
+      "sourceSha256": "56dd5d2b82bd3e2f892174f7b6733b5d22c8908d54713d73586a9bee7df543c9",
+      "sha256": "4be718da8551be5fb634f4d60b39f998c398bab153c6f52e6a8c6ae02953679f",
+      "width": 1170,
+      "height": 1170
+    },
+    {
+      "file": "red.png",
+      "source": "https://lookcv.com/static/imgs/logo/red.png",
+      "sourceSha256": "29dbfbaa9c8d43dcc746a3504d41cbfd0cfe0c84d24dbeceb55a678ea161bbf6",
+      "sha256": "3529b0256b64fed48ff8c8cc594d5702363ace7f2cd849e72e46a9c6e1a865a8",
+      "width": 497,
+      "height": 111
+    },
+    {
+      "file": "red_full.png",
+      "source": "https://lookcv.com/static/imgs/logo/red_full.png",
+      "sourceSha256": "1b1dbd6def448393f7b6ca14833656128ed8a9cd4e9b68d521b0cee541e6d92c",
+      "sha256": "67d6fa5b35252d5c131f6e6a08428becd339566f9d81cc4b948a45d45b9a7b56",
+      "width": 301,
+      "height": 105
+    },
+    {
+      "file": "dji.png",
+      "source": "https://lookcv.com/static/imgs/logo/dji.png",
+      "sourceSha256": "b6931410db7bb1c9852ddb2a730e6e5453ce013c187e754efc818610f082ce01",
+      "sha256": "c3d6b65ecd0633977d164f5262c12503da37401c44435b2f792cac04be125c11",
+      "width": 1441,
+      "height": 851
+    },
+    {
+      "file": "install360.png",
+      "source": "https://lookcv.com/static/imgs/logo/install360.png",
+      "sourceSha256": "313bde1c109fd0c2e0feda96f17730c8831a882c3ec815f3d89d3de007baef00",
+      "sha256": "f537935e55b25c2070f03f76b31245f4ec182bc52f18de7e2d59271c8a86f8e8",
+      "width": 544,
+      "height": 107
+    },
+    {
+      "file": "kodak.png",
+      "source": "https://lookcv.com/static/imgs/logo/kodak.png",
+      "sourceSha256": "4f7d8daa552c40ec07857c1dc8821dd67510f999aad336d5ee320a059f7a82cb",
+      "sha256": "43326ecb3446a9d638ce2163e1c2a27d1c2144b79e8bc3060ee79d6c153dedd8",
+      "width": 1256,
+      "height": 322
+    },
+    {
+      "file": "lumix.png",
+      "source": "https://lookcv.com/static/imgs/logo/lumix.png",
+      "sourceSha256": "50b5b29dcd04a3cff32386b8fa2688a8fa788c5db3eba775846155cb764208ca",
+      "sha256": "3b4ac9a6b30a6f9163f4af04332c1720efa550034a776ddf4ad8b806f49473cf",
+      "width": 555,
+      "height": 109
+    },
+    {
+      "file": "mamiya.png",
+      "source": "https://lookcv.com/static/imgs/logo/mamiya.png",
+      "sourceSha256": "5fa51ce2bb794da30e9c29f8781db7c51bc93872504b26b7c2137cd625d98dc5",
+      "sha256": "9ee4fed7ea9dae8e383c822cb09feda2e9b2bff333653ecf9c088eaa8435edd5",
+      "width": 766,
+      "height": 242
+    },
+    {
+      "file": "olympus.png",
+      "source": "https://lookcv.com/static/imgs/logo/olympus.png",
+      "sourceSha256": "98737fa72f09b46154334b367ad9024c7b52779c95d2b1c29016d93841697da3",
+      "sha256": "44f7657c6a6849f6e5b0b72691fa0dc24439ac194a42ff1383596adff4796f7e",
+      "width": 627,
+      "height": 119
+    },
+    {
+      "file": "panasonic.png",
+      "source": "https://lookcv.com/static/imgs/logo/panasonic.png",
+      "sourceSha256": "a85213fa9f6f5dc982ddad3a210b3594051e8c7c32fed1a8b9fc5e5dbfd7bed8",
+      "sha256": "bb457432abe8c0bb9a57a8f2f8e9eb7d469ea78ed5f18815a77b8b81ef80cdd1",
+      "width": 591,
+      "height": 91
+    },
+    {
+      "file": "pentax.png",
+      "source": "https://lookcv.com/static/imgs/logo/pentax.png",
+      "sourceSha256": "3c1e570854dadba17d0a2dfa09387c416fd9bb2a40e2d570e61c2ac4a9d25cab",
+      "sha256": "632e849765c762a734bfddb3ce98c31dfe2c088140f41c976e6008d058b2e182",
+      "width": 498,
+      "height": 92
+    },
+    {
+      "file": "phaseOne.png",
+      "source": "https://lookcv.com/static/imgs/logo/phaseOne.png",
+      "sourceSha256": "075f45121dc6ad36bd5331320e0ec1071d1c478e39b4e5721643b3073b49b0b1",
+      "sha256": "df9da92374c314234dda8e7dde3a3c12971f3e0a2a65d3f59f7d9a10d8ab0b2c",
+      "width": 1121,
+      "height": 160
+    },
+    {
+      "file": "ricoh.png",
+      "source": "https://lookcv.com/static/imgs/logo/ricoh.png",
+      "sourceSha256": "f87664f667cb08d7c0c05e5227b930c59b4ff4fe1aef7e97457c07b3cc2ed30b",
+      "sha256": "4eb97e18fe1a3cf0a4cb3d893ef2db8b71f6dd2a9ae60c5f72959b9720619583",
+      "width": 603,
+      "height": 109
+    },
+    {
+      "file": "rolleiflex.png",
+      "source": "https://lookcv.com/static/imgs/logo/rolleiflex.png",
+      "sourceSha256": "4623b51eb3ecf1c5223168dcf0761552cb0391d9cc660a2be658b66499221382",
+      "sha256": "3cb72b5c93ec53d313653bcb820266005ccd2b34d843158b3295b1bf5128ee23",
+      "width": 330,
+      "height": 92
+    },
+    {
+      "file": "sigma.png",
+      "source": "https://lookcv.com/static/imgs/logo/sigma.png",
+      "sourceSha256": "d3e8a1fd8b2ea213fc0f66e398f026147e6c8523bbc2e88256315af8a1dff272",
+      "sha256": "88b83d74e6bb2f85f79fd3a2e2781c578ecb1080f4bf22bd8e023f914f683a0e",
+      "width": 1080,
+      "height": 230
+    },
+    {
+      "file": "tamron.png",
+      "source": "https://lookcv.com/static/imgs/logo/tamron.png",
+      "sourceSha256": "d98c4c0e481df23d1145230b9ffa2ef37313d68738bfa53ab07adaacca43bd0e",
+      "sha256": "f2f9e9b4e13b086f64184de2d4fcdffcea68798bafc48fa9ebcedd24b33b4bfa",
+      "width": 1325,
+      "height": 268
+    },
+    {
+      "file": "zeiss_full.png",
+      "source": "https://lookcv.com/static/imgs/logo/zeiss_full.png",
+      "sourceSha256": "0abb2b220651ff147af31872d6b4db00faabd0adbf1ecea1c5fb270f81273ae2",
+      "sha256": "9b2008f6837b047a905f2f67871ef7ecff393fef677d9e8ba4a0be42381b72fe",
+      "width": 340,
+      "height": 341
+    }
+  ]
+}

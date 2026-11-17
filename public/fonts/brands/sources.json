@@ -1,0 +1,101 @@
+[
+  {
+    "family": "besley",
+    "file": "besley.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/besley/Besley%5Bwght%5D.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "besley-OFL.txt",
+    "bytes": 108640,
+    "sha256": "71f352d8859c787631a0978161d48497a72caa69dcae6996d6712a564df86c1e"
+  },
+  {
+    "family": "sourcesans3",
+    "file": "source-sans-3.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sourcesans3/SourceSans3%5Bwght%5D.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "sourcesans3-OFL.txt",
+    "bytes": 646340,
+    "sha256": "042fe2cc0b933e328410d7acbd0aa6a1873dca5aef81875f4bc214b08825c7b9"
+  },
+  {
+    "family": "barlow",
+    "file": "barlow-regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlow/Barlow-Regular.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "barlow-OFL.txt",
+    "bytes": 104068,
+    "sha256": "95aa02c7c43096e0dd44d787ba6216864a67157e402adab59b35572e0c1577ea"
+  },
+  {
+    "family": "barlow",
+    "file": "barlow-bold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlow/Barlow-Bold.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "barlow-OFL.txt",
+    "bytes": 108220,
+    "sha256": "84e6a4d61e7c3e21f3c50ea6a4f7e5303a3467864c038be6ea3759bab8d547f9"
+  },
+  {
+    "family": "barlow",
+    "file": "barlow-bold-italic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlow/Barlow-BoldItalic.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "barlow-OFL.txt",
+    "bytes": 111996,
+    "sha256": "079dcee4a53544177f3b16354b27b40b521e22861a40084ab4d052f0289ed9e8"
+  },
+  {
+    "family": "librebaskerville",
+    "file": "libre-baskerville.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/librebaskerville/LibreBaskerville%5Bwght%5D.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "librebaskerville-OFL.txt",
+    "bytes": 171900,
+    "sha256": "05a95421961341c5b2556285e8415df9db27dab4f4abe22b446b3c6a8b916c5d"
+  },
+  {
+    "family": "courgette",
+    "file": "courgette.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/courgette/Courgette-Regular.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "courgette-OFL.txt",
+    "bytes": 122072,
+    "sha256": "099739d22e66ee2b80656bba63847f9ed419ad7e3969ba2c1d3c437c0d08f3e3"
+  },
+  {
+    "family": "chakrapetch",
+    "file": "chakra-petch.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/ChakraPetch-Regular.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "chakrapetch-OFL.txt",
+    "bytes": 78488,
+    "sha256": "98fcd638baa5c81ff0316b7538ce330ee3b23b1302726de3526d5933a8ecf986"
+  },
+  {
+    "family": "chakrapetch",
+    "file": "chakra-petch-semibold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/ChakraPetch-SemiBold.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "chakrapetch-OFL.txt",
+    "bytes": 78604,
+    "sha256": "45264de3204ddbd5fb3e14a2402acd5c630d16650ae5fc221d2c52da46a6734b"
+  },
+  {
+    "family": "belleza",
+    "file": "belleza.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/belleza/Belleza-Regular.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "belleza-OFL.txt",
+    "bytes": 55696,
+    "sha256": "a88eb0fdf4e78687a40d3478e1c90d4d3079e8c0d7d3a2452488a3ba805bff1d"
+  },
+  {
+    "family": "manrope",
+    "file": "manrope.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "manrope-OFL.txt",
+    "bytes": 164700,
+    "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+  }
+]

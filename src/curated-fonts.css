@@ -1,0 +1,36 @@
+@font-face {
+  font-family: PhotoHanSans;
+  src: url('/fonts/curated/source-han-sans.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: PhotoHanSerif;
+  src: url('/fonts/curated/source-han-serif.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: PhotoXiaoWei;
+  src: url('/fonts/curated/zcool-xiaowei.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: PhotoHuangYou;
+  src: url('/fonts/curated/zcool-huangyou.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: PhotoKuaiLe;
+  src: url('/fonts/curated/zcool-kuaile.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: PhotoZhiMang;
+  src: url('/fonts/curated/zhi-mang-xing.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+}

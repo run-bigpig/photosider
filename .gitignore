@@ -1,0 +1,32 @@
+# Dependencies and build output
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local documentation and research
+*.md
+analysis/
+downloads/
+
+# Tests, verification scripts, and generated artifacts
+tests/
+playwright.config.*
+test-results/
+playwright-report/
+blob-report/
+coverage/
+artifacts/
+scripts/browser-helpers.mjs
+scripts/smoke-production.mjs
+
+# Local configuration and temporary files
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

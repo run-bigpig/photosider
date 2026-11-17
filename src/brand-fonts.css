@@ -1,0 +1,77 @@
+@font-face {
+  font-family: BrandBesley;
+  src: url('/fonts/brands/besley.ttf') format('truetype');
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: BrandSourceSans;
+  src: url('/fonts/brands/source-sans-3.ttf') format('truetype');
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: BrandBarlow;
+  src: url('/fonts/brands/barlow-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: BrandBarlow;
+  src: url('/fonts/brands/barlow-bold.ttf') format('truetype');
+  font-weight: 600 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: BrandBarlow;
+  src: url('/fonts/brands/barlow-bold-italic.ttf') format('truetype');
+  font-weight: 600 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: BrandBaskerville;
+  src: url('/fonts/brands/libre-baskerville.ttf') format('truetype');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: BrandCourgette;
+  src: url('/fonts/brands/courgette.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: BrandChakra;
+  src: url('/fonts/brands/chakra-petch.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: BrandChakra;
+  src: url('/fonts/brands/chakra-petch-semibold.ttf') format('truetype');
+  font-weight: 600 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: BrandBelleza;
+  src: url('/fonts/brands/belleza.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: BrandManrope;
+  src: url('/fonts/brands/manrope.ttf') format('truetype');
+  font-weight: 200 800;
+  font-style: normal;
+  font-display: swap;
+}

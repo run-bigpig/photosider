@@ -1,0 +1,80 @@
+[
+  {
+    "id": "source-han-sans",
+    "name": "思源黑体",
+    "file": "source-han-sans.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/SubsetOTF/CN/SourceHanSansCN-Regular.otf",
+    "license": "SIL Open Font License 1.1",
+    "licenseSource": "https://raw.githubusercontent.com/adobe-fonts/source-han-sans/release/LICENSE.txt",
+    "licenseFile": "source-han-sans-OFL.txt",
+    "bytes": 6199704,
+    "sourceSha256": "e2bc8a2e7f37474b774fff8db758681ece40bb6947a90d571bce9dd60671a8e4",
+    "sha256": "4381c9c40b6a2fb701ce2bf211d0da87531f853d8d611790ec79fa1129a23adf",
+    "packaging": "WOFF2 lossless format conversion; all upstream glyphs retained"
+  },
+  {
+    "id": "source-han-serif",
+    "name": "思源宋体",
+    "file": "source-han-serif.woff2",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-han-serif/release/SubsetOTF/CN/SourceHanSerifCN-Regular.otf",
+    "license": "SIL Open Font License 1.1",
+    "licenseSource": "https://raw.githubusercontent.com/adobe-fonts/source-han-serif/release/LICENSE.txt",
+    "licenseFile": "source-han-serif-OFL.txt",
+    "bytes": 8438372,
+    "sourceSha256": "3754ea669c530e2473354f8f6d9f79680a44d7e26ec7d00eeabee4a7e0753c5d",
+    "sha256": "e1676e258656f54fd993ef1e84397de26e6b685f9672775015ef115384c3ee73",
+    "packaging": "WOFF2 lossless format conversion; all upstream glyphs retained"
+  },
+  {
+    "id": "zcool-xiaowei",
+    "name": "站酷小微 Logo 体",
+    "file": "zcool-xiaowei.woff2",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolxiaowei/ZCOOLXiaoWei-Regular.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolxiaowei/OFL.txt",
+    "licenseFile": "zcool-xiaowei-OFL.txt",
+    "bytes": 2633252,
+    "sourceSha256": "a42b620140f493db42f741351dfbf343c0936d58588ee8004b8b2a218d997ff1",
+    "sha256": "83c125a95519dd455584597e81cb9fe1d35abc4236eb36a40bda780e691f764c",
+    "packaging": "WOFF2 lossless format conversion; all upstream glyphs retained"
+  },
+  {
+    "id": "zcool-huangyou",
+    "name": "站酷庆科黄油体",
+    "file": "zcool-huangyou.woff2",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolqingkehuangyou/ZCOOLQingKeHuangYou-Regular.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolqingkehuangyou/OFL.txt",
+    "licenseFile": "zcool-huangyou-OFL.txt",
+    "bytes": 2469724,
+    "sourceSha256": "54f0c0df4308cd74cd0f2fd3494ae054dbc4a1fd6fa7d71f4807eb4cdd8b4136",
+    "sha256": "297f2cda204fe66b940fb67e7e5a3bb4744ee1b1fd24c8e00e756367b0fa7515",
+    "packaging": "WOFF2 lossless format conversion; all upstream glyphs retained"
+  },
+  {
+    "id": "zcool-kuaile",
+    "name": "站酷快乐体",
+    "file": "zcool-kuaile.woff2",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolkuaile/OFL.txt",
+    "licenseFile": "zcool-kuaile-OFL.txt",
+    "bytes": 871436,
+    "sourceSha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+    "sha256": "cbe0b503dd5197bd0034f6fe986a82c2634e69c1c36098ebee16edad65897acc",
+    "packaging": "WOFF2 lossless format conversion; all upstream glyphs retained"
+  },
+  {
+    "id": "zhi-mang-xing",
+    "name": "钟齐志莽行书",
+    "file": "zhi-mang-xing.woff2",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/zhimangxing/ZhiMangXing-Regular.ttf",
+    "license": "SIL Open Font License 1.1",
+    "licenseSource": "https://raw.githubusercontent.com/google/fonts/main/ofl/zhimangxing/OFL.txt",
+    "licenseFile": "zhi-mang-xing-OFL.txt",
+    "bytes": 2300368,
+    "sourceSha256": "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969",
+    "sha256": "355202c6299b8e1558b7604d34142e248e15f0195561c7acd8b3a09f37e32f0a",
+    "packaging": "WOFF2 lossless format conversion; all upstream glyphs retained"
+  }
+]
